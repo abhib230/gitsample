@@ -1,5 +1,9 @@
 "Hello there my friends"
  Hello World!
 test
+<<<<<<< HEAD
 comment
 
+=======
+write something
+>>>>>>> 09a5b30b92e65aae58a27030d0057afc6c3a16fd
